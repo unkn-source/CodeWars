@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef6bcca4-da11-448c-b552-732f3dcd1967" name="Changes" comment="Added &quot;reagent_formula.py&quot;">
-      <change afterPath="$PROJECT_DIR$/8 kyu/days_in_the_year.py" afterDir="false" />
+    <list default="true" id="ef6bcca4-da11-448c-b552-732f3dcd1967" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/7 kyu/streaky_patterns_in_coin_flips.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,20 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.welocme.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.welocme.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Projects/DEVELOPMENT/CodeWars",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,7 +64,11 @@
       <option name="presentableId" value="Default" />
       <updated>1725865707381</updated>
       <workItem from="1725865708885" duration="1614000" />
-      <workItem from="1725867418545" duration="1170000" />
+      <workItem from="1725867418545" duration="1479000" />
+      <workItem from="1726238503239" duration="51000" />
+      <workItem from="1726238612243" duration="6000" />
+      <workItem from="1726238674584" duration="25000" />
+      <workItem from="1726276659279" duration="591000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing the project">
       <option name="closed" value="true" />
@@ -145,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725868475180</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added &quot;days_in_the_year.py&quot;">
+      <option name="closed" value="true" />
+      <created>1725868605333</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725868605333</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added &quot;remove_duplicates_from_list.py&quot;">
+      <option name="closed" value="true" />
+      <created>1725868843365</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725868843365</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +195,9 @@
     <MESSAGE value="greek_sort.py" />
     <MESSAGE value="Added &quot;greek_sort.py&quot;" />
     <MESSAGE value="Added &quot;reagent_formula.py&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;reagent_formula.py&quot;" />
+    <MESSAGE value="Added &quot;days_in_the_year.py&quot;" />
+    <MESSAGE value="Added &quot;remove_duplicates_from_list.py&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;remove_duplicates_from_list.py&quot;" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodeWars$welocme.coverage" NAME="welocme Coverage Results" MODIFIED="1725866869879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8 kyu" />
